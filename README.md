@@ -14,6 +14,6 @@ Data handling
 - pandas
 
 GUI
-- pyqt
+- tkinter
 
 Note: code requires update if the source website alters it's webpage
